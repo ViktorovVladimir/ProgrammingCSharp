@@ -1,0 +1,14 @@
+D:\Programs\MyDemoConsoleApplication\MyDemoConsoleApplication\bin\Debug\net8.0\MyDemoConsoleApplication.exe
+D:\Programs\MyDemoConsoleApplication\MyDemoConsoleApplication\bin\Debug\net8.0\MyDemoConsoleApplication.deps.json
+D:\Programs\MyDemoConsoleApplication\MyDemoConsoleApplication\bin\Debug\net8.0\MyDemoConsoleApplication.runtimeconfig.json
+D:\Programs\MyDemoConsoleApplication\MyDemoConsoleApplication\bin\Debug\net8.0\MyDemoConsoleApplication.dll
+D:\Programs\MyDemoConsoleApplication\MyDemoConsoleApplication\bin\Debug\net8.0\MyDemoConsoleApplication.pdb
+D:\Programs\MyDemoConsoleApplication\MyDemoConsoleApplication\obj\Debug\net8.0\MyDemoConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\MyDemoConsoleApplication\MyDemoConsoleApplication\obj\Debug\net8.0\MyDemoConsoleApplication.AssemblyInfoInputs.cache
+D:\Programs\MyDemoConsoleApplication\MyDemoConsoleApplication\obj\Debug\net8.0\MyDemoConsoleApplication.AssemblyInfo.cs
+D:\Programs\MyDemoConsoleApplication\MyDemoConsoleApplication\obj\Debug\net8.0\MyDemoConsoleApplication.csproj.CoreCompileInputs.cache
+D:\Programs\MyDemoConsoleApplication\MyDemoConsoleApplication\obj\Debug\net8.0\MyDemoConsoleApplication.dll
+D:\Programs\MyDemoConsoleApplication\MyDemoConsoleApplication\obj\Debug\net8.0\refint\MyDemoConsoleApplication.dll
+D:\Programs\MyDemoConsoleApplication\MyDemoConsoleApplication\obj\Debug\net8.0\MyDemoConsoleApplication.pdb
+D:\Programs\MyDemoConsoleApplication\MyDemoConsoleApplication\obj\Debug\net8.0\MyDemoConsoleApplication.genruntimeconfig.cache
+D:\Programs\MyDemoConsoleApplication\MyDemoConsoleApplication\obj\Debug\net8.0\ref\MyDemoConsoleApplication.dll
