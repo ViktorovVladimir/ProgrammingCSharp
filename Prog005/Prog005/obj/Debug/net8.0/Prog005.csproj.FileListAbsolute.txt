@@ -1,0 +1,15 @@
+D:\Repos002\ProgrammingCSharp\Prog005\Prog005\bin\Debug\net8.0\Prog005.exe
+D:\Repos002\ProgrammingCSharp\Prog005\Prog005\bin\Debug\net8.0\Prog005.deps.json
+D:\Repos002\ProgrammingCSharp\Prog005\Prog005\bin\Debug\net8.0\Prog005.runtimeconfig.json
+D:\Repos002\ProgrammingCSharp\Prog005\Prog005\bin\Debug\net8.0\Prog005.dll
+D:\Repos002\ProgrammingCSharp\Prog005\Prog005\bin\Debug\net8.0\Prog005.pdb
+D:\Repos002\ProgrammingCSharp\Prog005\Prog005\obj\Debug\net8.0\Prog005.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos002\ProgrammingCSharp\Prog005\Prog005\obj\Debug\net8.0\Prog005.AssemblyInfoInputs.cache
+D:\Repos002\ProgrammingCSharp\Prog005\Prog005\obj\Debug\net8.0\Prog005.AssemblyInfo.cs
+D:\Repos002\ProgrammingCSharp\Prog005\Prog005\obj\Debug\net8.0\Prog005.csproj.CoreCompileInputs.cache
+D:\Repos002\ProgrammingCSharp\Prog005\Prog005\obj\Debug\net8.0\Prog005.sourcelink.json
+D:\Repos002\ProgrammingCSharp\Prog005\Prog005\obj\Debug\net8.0\Prog005.dll
+D:\Repos002\ProgrammingCSharp\Prog005\Prog005\obj\Debug\net8.0\refint\Prog005.dll
+D:\Repos002\ProgrammingCSharp\Prog005\Prog005\obj\Debug\net8.0\Prog005.pdb
+D:\Repos002\ProgrammingCSharp\Prog005\Prog005\obj\Debug\net8.0\Prog005.genruntimeconfig.cache
+D:\Repos002\ProgrammingCSharp\Prog005\Prog005\obj\Debug\net8.0\ref\Prog005.dll
