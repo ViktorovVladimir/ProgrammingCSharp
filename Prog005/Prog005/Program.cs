@@ -24,20 +24,20 @@ namespace HelloWorld
         public static void Main()
         {
 
-            string sPerimetr, sStorona;
-            double rPerimetr, rStorona;
-            double rS;
+            //string sPerimetr, sStorona;
+            //double rPerimetr, rStorona;
+            //double rS;
 
             //--.
             Console.WriteLine("Please enter Perimetr value");
-            sPerimetr = Console.ReadLine();
-            rPerimetr = Double.Parse(sPerimetr);
+            //sPerimetr = Console.ReadLine();
+            double rPerimetr = Double.Parse( Console.ReadLine() );
             Console.WriteLine("Please enter Storona value");
-            sStorona = Console.ReadLine();
-            rStorona = Double.Parse(sStorona);
-            
+            //sStorona = Console.ReadLine();
+            double rStorona = Double.Parse( Console.ReadLine() );
+
             //--.
-            rS = Math.Sqrt(rPerimetr * (rPerimetr - rStorona) * (rPerimetr - rStorona) * (rPerimetr - rStorona));
+            double rS = Math.Sqrt(rPerimetr * (rPerimetr - rStorona) * (rPerimetr - rStorona) * (rPerimetr - rStorona));
 
             Console.WriteLine("\tSTORONA \t\tPLOSHAD");
             Console.WriteLine("\t  {0:F2} \t\t {1:F2}", rStorona, rS);
