@@ -1,0 +1,15 @@
+D:\Repos002\ProgrammingCSharp\Prog004\Prog004\bin\Debug\net8.0\Prog004.exe
+D:\Repos002\ProgrammingCSharp\Prog004\Prog004\bin\Debug\net8.0\Prog004.deps.json
+D:\Repos002\ProgrammingCSharp\Prog004\Prog004\bin\Debug\net8.0\Prog004.runtimeconfig.json
+D:\Repos002\ProgrammingCSharp\Prog004\Prog004\bin\Debug\net8.0\Prog004.dll
+D:\Repos002\ProgrammingCSharp\Prog004\Prog004\bin\Debug\net8.0\Prog004.pdb
+D:\Repos002\ProgrammingCSharp\Prog004\Prog004\obj\Debug\net8.0\Prog004.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos002\ProgrammingCSharp\Prog004\Prog004\obj\Debug\net8.0\Prog004.AssemblyInfoInputs.cache
+D:\Repos002\ProgrammingCSharp\Prog004\Prog004\obj\Debug\net8.0\Prog004.AssemblyInfo.cs
+D:\Repos002\ProgrammingCSharp\Prog004\Prog004\obj\Debug\net8.0\Prog004.csproj.CoreCompileInputs.cache
+D:\Repos002\ProgrammingCSharp\Prog004\Prog004\obj\Debug\net8.0\Prog004.sourcelink.json
+D:\Repos002\ProgrammingCSharp\Prog004\Prog004\obj\Debug\net8.0\Prog004.dll
+D:\Repos002\ProgrammingCSharp\Prog004\Prog004\obj\Debug\net8.0\refint\Prog004.dll
+D:\Repos002\ProgrammingCSharp\Prog004\Prog004\obj\Debug\net8.0\Prog004.pdb
+D:\Repos002\ProgrammingCSharp\Prog004\Prog004\obj\Debug\net8.0\Prog004.genruntimeconfig.cache
+D:\Repos002\ProgrammingCSharp\Prog004\Prog004\obj\Debug\net8.0\ref\Prog004.dll
