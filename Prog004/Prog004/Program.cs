@@ -13,11 +13,9 @@ namespace DivideItNameSpace
                 {
                     //--.
                     Console.WriteLine("Please enter FIRST value: ");
-                    string temp = Console.ReadLine();
-                    int i = Int32.Parse(temp);
+                    int i = Int32.Parse(Console.ReadLine());
                     Console.WriteLine("Please enter SECOND value: ");
-                    temp = Console.ReadLine();
-                    int j = Int32.Parse(temp);
+                    int j = Int32.Parse(Console.ReadLine());
 
                     int k = i / j;
                     Console.WriteLine("{0} by {1} is {2}", i, j, k);
